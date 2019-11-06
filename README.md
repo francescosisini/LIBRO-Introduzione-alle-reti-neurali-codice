@@ -17,4 +17,4 @@ tali modelli vengono analizzati in profondità e trasformati in procedure inform
 delle funzionalità cognitive. Tra gli altri, viene sviluppato l'esempio completo di una rete neurale capace 
 di riconoscere le cifre numeriche scritte a mano.
 
-[copertina](Copertina_mezza.jpg)
+![copertina](Copertina_mezza.jpg)
