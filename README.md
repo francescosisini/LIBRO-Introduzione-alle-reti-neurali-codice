@@ -3,7 +3,7 @@ In questo repository sono mantenuti i codici del libro che è disponibile su [am
 
 Un estratto del libro è presentato [qui](Estratto_Libro.pdf)
 
-
+### Sinossi
 Il libro propone un percorso continuo che dalla nozione di neurone e di rete di neuroni in biologia, 
 arriva alla codifica di una rete neurale artificiale in informatica.
 Dal confronto tra il funzionamento di un elaboratore elettronico e quello di un cervello biologico, 
