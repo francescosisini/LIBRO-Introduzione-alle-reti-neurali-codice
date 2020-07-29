@@ -1,5 +1,6 @@
-# Introduzione alle reti neurali con esempi in linguaggio C
-[Vedi su Amazon](https://www.amazon.it/Introduzione-alle-neurali-esempi-linguaggio/dp/1692945319)
+# Codici del Libro: *Introduzione alle reti neurali con esempi in linguaggio C*
+In questo repository sono mantenuti i codici del [libro:](https://www.amazon.it/Introduzione-alle-neurali-esempi-linguaggio/dp/1692945319)
+
 
 Il libro propone un percorso continuo che dalla nozione di neurone e di rete di neuroni in biologia, 
 arriva alla codifica di una rete neurale artificiale in informatica.
