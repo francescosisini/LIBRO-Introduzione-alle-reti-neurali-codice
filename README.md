@@ -1,7 +1,7 @@
 # Codici del Libro: *Introduzione alle reti neurali con esempi in linguaggio C*
 In questo repository sono mantenuti i codici del libro che è disponibile su [amazon](https://www.amazon.it/Introduzione-alle-neurali-esempi-linguaggio/dp/1692945319)
 
-Un estratto del libro è presentato nel [Estratto_libro.pdf](Estratto_libro.pdf)
+Un estratto del libro è presentato [qui](Estratto_Libro.pdf)
 
 
 Il libro propone un percorso continuo che dalla nozione di neurone e di rete di neuroni in biologia, 
